@@ -1373,6 +1373,7 @@
 	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "로딩 중 토렌트 상태 표시",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremio의 개인정보보호 정책을 읽으려면 다음 사이트를 방문하십시오.:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Stremio 계약조건을 읽으려면 다음 사이트를 방문하십시오.:",
+	
 	"STREMIO_TV_NAV_SEARCH": "검색",
 	"STREMIO_TV_NAV_HOME": "홈",
 	"STREMIO_TV_NAV_DISCOVER": "발견",
@@ -1383,12 +1384,14 @@
 	"STREMIO_TV_NAV_TV": "라이브 TV",
 	"STREMIO_TV_NAV_SETTINGS": "설정",
 	"STREMIO_TV_NAV_ADDONS": "애드온",
+	
 	"STREMIO_TV_LOGIN_TITLE": "계정 링크",
-	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expires in",
+	"STREMIO_TV_LOGIN_EXPIRES_IN": "남은 시간",
 	"STREMIO_TV_LOGIN_STEP_ONE": "위의 QR코드를 스캔하거나 다음으로 이동합니다.",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Stremio 계정에 로그인합니다.",
 	"STREMIO_TV_LOGIN_NEW_LINK": "새로운 링크 요청",
-	"STREMIO_TV_LOGIN_LINK_REFRESHED": "로그인 코드 새로 고침",
+	"STREMIO_TV_LOGIN_LINK_REFRESHED": "새로운 로그인 링크를 받았습니다.",
+	
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "입력하세요.",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "카탈로그에 대한 애드온이 요청되지 않았습니다!",
 	"STREMIO_TV_SEARCH_BUTTON": "Search",
@@ -1398,8 +1401,11 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "검색 히스토리",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "타이틀, 배우, 채널 등을 검색할 수 있습니다.",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "검색 히스토리 지우기",
+	
 	"STREMIO_TV_FILTERS_DESCRIPTION": "아래 필터 중 하나를 선택하십시오.",
+	
 	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "스트리밍 서버가 오프라인입니다. 서버 설정을 확인하십시오.",
+	
 	"FILTERS": "필터",
 	"SETTINGS": "설정",
 	"ACCOUNT": "계정",
@@ -1446,10 +1452,12 @@
 	"REMOTE_ADJUST_SIZE": "크기 조정",
 	"REMOTE_COULD_NOT_BE_LOADED": "Web Remote를 로드할 수 없습니다.",
 	"REMOTE_RETRY": "재시도",
+	
 	"TORRENT_PROFILE_DEFAULT": "기본값",
 	"TORRENT_PROFILE_SOFT": "저속",
 	"TORRENT_PROFILE_FAST": "고속",
 	"TORRENT_PROFILE_ULTRA_FAST": "초고속",
+	
 	"FAQ_001_H1": "Stremio란?",
 	"FAQ_001_P1": "Stremio는 사용하기 쉬운 비디오 엔터테인먼트용으로 설계된 미디어 센터 소프트웨어입니다. Stremio를 사용하면 자신만의 영화, 시리즈, 채널 및 라이브 TV 컬렉션을 구성하고 시청할 수 있습니다.",
 	"FAQ_001_P2": "Stremio는 로컬 디스크와 당사의 애드온 시스템에서 표시되는 콘텐츠를 수집합니다.",
