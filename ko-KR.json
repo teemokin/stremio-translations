@@ -12,7 +12,7 @@
 	"TYPE_ALL": "전체",
 	"TYPE": "타입",
 	"CATALOG_com_linvo_cinemeta_top": "인기",
-	"CATALOG_com_linvo_cinemeta_imdbRating": "추천",
+	"CATALOG_com_linvo_cinemeta_imdbRating": "주목받는",
 	"CATALOG_com_linvo_cinemeta_year": "신규",
 	"CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "퍼블릭 도메인 영화",
 	"VIDEO": "비디오",
@@ -476,7 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "캐시 사이즈",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "토렌트 설정",
 	"SETTINGS_HTTPS_ENDPOINT": "스트리밍 HTTPS 엔드포인트: ",
-	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
+	"SETTINGS_TRANSCODE_PROFILE": "트랜스코딩 설정",
 	"SETTINGS_USE_BETA": "항상 최신 베타버전 사용",
 	"SETTINGS_IMPORT_FB": "Facebook에서 가져오기",
 	"SETTINGS_IMPORT_DISK": "로컬 디스크에서 가져오기",
@@ -501,7 +501,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "기본 자막",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "오디오 트랙 자동 선택",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "기본 오디오 트랙",
-	"SETTINGS_SURROUND_SOUND": "Surround sound",
+	"SETTINGS_SURROUND_SOUND": "서라운드 오디오",
 	"SETTINGS_ACCOUNT": "계정",
 	"SETTINGS_PLATFORM": "플랫폼",
 	"SETTINGS_VERSION": "Version",
@@ -519,14 +519,17 @@
 	"SETTINGS_HW_LEGACY": "레거시",
 	"SETTINGS_DISABLED": "비활성화",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "네트워크 연결 알림",
+	
 	"SETTINGS_REMOTE_URL": "원격 URL",
 	"SETTINGS_COPY_REMOTE_URL": "원격 URL 복사",
 	"SETTINGS_REMOTE_URL_COPIED": "원격 URL이 클립보드로 복사 되었습니다.",
+	
 	"SETTINGS_SECTION_SUBTITLES": "자막",
 	"SETTINGS_SECTION_AUDIO": "오디오",
 	"SETTINGS_SECTION_CONTROLS": "제어",
 	"SETTINGS_SECTION_AUTO_PLAY": "자동 재생",
 	"SETTINGS_SECTION_ADVANCED": "고급 설정",
+	
 	"SUBSPICKER_AUDIO": "오디오",
 	"SUBSPICKER_SUBTITLES": "애드온 자막",
 	"SUBSPICKER_BLACK_BACKGROUND": "검정색 배경 사용",
@@ -534,6 +537,7 @@
 	"SUBSPICKER_SIZE": "크기",
 	"SUBSPICKER_DELAY": "딜레이",
 	"SUBSPICKER_EMBEDDED_SUBS": "내장 자막",
+	
 	"MOBILE_PRIVACY_POLICY": "개인정보보호 정책",
 	"MOBILE_CRASH_REPORTING": "오류 보고 동의",
 	"MOBILE_ZOOM_TO_FILL": "꽉찬 화면(비율 유지)",
@@ -567,10 +571,14 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "계정이 페이스북을 사용하여 만들어졌습니다. 계정을 삭제하려면 www.stremio.com/login 의 사용자 포털을 사용하십시오.",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "계정 삭제를 진행하려면 비밀번호를 입력하십시오.",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "계정 삭제",
+	
 	"NAVIGATION_ON": "On",
 	"NAVIGATION_OFF": "Off",
+	
 	"MARKETING_AGREE": "Stremio로부터의 마케팅 정보 수신에 동의합니다.",
+	
 	"QUIT": "종료",
+	
 	"CONNECTED": "접속완료",
 	"AUTHENTICATE": "인증",
 	"CACHING": "캐시 사이즈",
@@ -581,6 +589,7 @@
 	"TORRENT_PROFILE": "Torrent 설정",
 	"DATA_CACHING": "데이터 캐싱",
 	"MAGNET_PARSING": "마그넷 링크 불러오는 중",
+	
 	"January": "1월",
 	"February": "2월",
 	"March": "3월",
@@ -593,6 +602,7 @@
 	"October": "10월",
 	"November": "11월",
 	"December": "12월",
+	
 	"Monday": "월요일",
 	"Tuesday": "화요일",
 	"Wednesday": "수요일",
@@ -600,6 +610,7 @@
 	"Friday": "금요일",
 	"Saturday": "토요일",
 	"Sunday": "일요일",
+	
 	"Action": "액션",
 	"Comedy": "코미디",
 	"War": "전쟁",
@@ -675,6 +686,7 @@
 	"Science Radio": "과학 라디오",
 	"Tech Radio": "테크 라디오",
 	"Science & Technology Vod": "과학 & 기술 VOD",
+	
 	"new video": "뉴스 영상",
 	"new episode": "새로운 에피소그",
 	"new movie": "신작 영화",
@@ -683,6 +695,7 @@
 	"offer of the day": "오늘의 할인",
 	"news": "뉴스",
 	"music video": "뮤직비디오",
+	
 	"CTX_SHOW_HOTKEYS": "단축키 표시",
 	"CTX_DISMISS_NOTIF": "알림 해제",
 	"CTX_DISMISS_ALL": "모두 해제",
@@ -725,6 +738,7 @@
 	"CTX_PASTE": "붙여넣기",
 	"CTX_CLEAR": "지우기",
 	"CTX_CLEAR_RECENT_SEARCHES": "최근 검색 지우기",
+	
 	"HELLO_THERE": "안녕하세요.",
 	"HOPE_YOU_ENJOY": "Stremio를 즐겨주셨으면 좋겠어요, 이미 마음에 드는 앱 중 하나예요!",
 	"WHO_ARE_WE": "우리는 누구일까요? 델이 그 배후에 있는 팀입니다.지난 3년간 매일 이 제품을 더 좋게 만들기 위해 열심히 일했던 두 남자입니다.",
@@ -732,7 +746,9 @@
 	"SPREAD_THE_WORD": "지금 바로 친구들과 공유하고 Stremio에 대한 소문을 퍼뜨리세요.",
 	"MORE_PEOPLE": "Stremio를 많이 사용할수록 더 좋아집니다!",
 	"SEND_A_LINK": "또는 당사 웹 사이트로 링크를 보내십시오.",
+	
 	"TIP_LOCALFILES": "팁: 로컬 비디오 파일을 Stremio에 드래그 앤 드롭할 수 있습니다",
+	
 	"ADDON_MY": "내 애드온",
 	"ADDON_COMMUNITY": "커뮤니티 애드온",
 	"ADDON_OFFICIAL": "공식 애드온",
