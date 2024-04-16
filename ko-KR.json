@@ -365,12 +365,13 @@
 	"EXTERNAL_ONLY_ONCE": "아니오",
 	
 	"BEST_FIT": "최적 맞춤",
+
 	"FIT_SCREEN": "전체 화면",
 	"FILL": "꽉찬 화면",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "원본 화면",
-	
+
 	"INTRO_TASTE": "좋아하는 걸 이야기해 주세요.",
 	"INTRO_TASTE_LONG": "보고 싶은 걸 말해주세요.",
 	"INTRO_TASTE_PICK": "{{interestsRemaining}} 관삼분야를 선택해주세요.",
