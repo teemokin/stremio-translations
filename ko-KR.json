@@ -365,8 +365,8 @@
 	"EXTERNAL_ONLY_ONCE": "아니오",
 	
 	"BEST_FIT": "최적 맞춤",
-	"FIT_SCREEN": "화면에 맞추기",
-	"FILL": "채움",
+	"FIT_SCREEN": "화면에 맞춤",
+	"FILL": "채우기",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "원본화면",
@@ -409,7 +409,7 @@
 	
 	"BUTTON_CONTINUE": "계속",
 	"BUTTON_ACTIVATE": "활성화",
-	"BUTTON_ACTIVATED": "활성화된",
+	"BUTTON_ACTIVATED": "활성화됨",
 	"BUTTON_CANCEL": "취소",
 	"BUTTON_SUBMIT": "제출",
 	"BUTTON_DISMISS_ALL": "모두 닫기",
